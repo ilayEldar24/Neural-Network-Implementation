@@ -1,0 +1,5 @@
+numpy
+matplotlib
+keras
+tensorflow  # keras requires tensorflow as a backend
+scikit-learn  # sklearn is known as scikit-learn in PyPI
