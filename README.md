@@ -55,7 +55,4 @@ python main.py
 - [Scikit-learn](https://scikit-learn.org/stable/) - For accuracy metrics and data splitting.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
